@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Project 1 - Creating a database schema for songs via Pyhon , manipulating and inserting data via Python driver using PosgreSQL
 
 *A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app. 
@@ -71,3 +72,11 @@ Made code to process  the entire data
 
  
 
+=======
+# udacity-data-engineer-nanodegree-covid-free
+udacity data engineer nanodegree covid free 30  days
+
+
+## Project 1 - Creating a database schema for songs via Pyhon , manipulating and inserting data  via Python driver using PosgreSQL
+![image](https://user-images.githubusercontent.com/7158671/78866949-fa12ee00-7a48-11ea-8e4c-c6e9053524c8.png)
+>>>>>>> 4d2cc00d69940096d53976615f935915362369c9
