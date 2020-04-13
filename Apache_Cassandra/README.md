@@ -1,6 +1,6 @@
 Datasets
 
-**For this project, you'll be working with one dataset: event_data. The directory of CSV files partitioned by date. Here are examples of filepaths to two files in the dataset:
+<b>For this project, you'll be working with one dataset: event_data. The directory of CSV files partitioned by date. Here are examples of filepaths to two files in the dataset </b>:
 
 
 
@@ -17,7 +17,7 @@ In this project, you'll apply what you've learned on data modeling with Apache C
 
 We have provided you with a project template that takes care of all the imports and provides a structure for ETL pipeline you'd need to process this data.
 
-<h1> Project: Data Modeling with Cassandra
+<h1> Project: Data Modeling with Cassandra </h1>
   
  
 
